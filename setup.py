@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="datalib-sghaier",
+    name="datalib_sghaier_project",
     version="0.1.0",
     author="Mazen Sghaier",
     author_email="sghaiermazen7@gmail.com",
