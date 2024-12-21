@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10  # Change to your project's version
+          python-version: 3.11  # Change to your project's version
 
       # Step 3: Install dependencies
       - name: Install dependencies
@@ -46,7 +46,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10  # Change to your project's version
+          python-version: 3.11  # Change to your project's version
 
       # Step 3: Build package
       - name: Build package
