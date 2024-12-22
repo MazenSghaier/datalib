@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="datalib",
-    version="0.1.0",
+    name="datalib_sghaier_project",
+    version="0.1.1",
     author="Mazen Sghaier",
     author_email="sghaiermazen7@gmail.com",
     description="A Python library for data manipulation and analysis.",
